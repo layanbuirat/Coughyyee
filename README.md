@@ -495,7 +495,7 @@
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/48/usa.png" width="40"/><br>
       <sub><b>English</b></sub><br>
-      Fluent
+      Good
     </td>
   </tr>
 </table>
