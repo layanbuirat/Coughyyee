@@ -541,9 +541,9 @@
 ## ⭐ Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-mlayan774%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mlayan774@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Layan%20Buiart-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/layanbuiart)
-[![GitHub](https://img.shields.io/badge/GitHub-layanbuiart-black?style=for-the-badge&logo=github)](https://github.com/layanbuiart)
-[![Portfolio](https://img.shields.io/badge/Portfolio-layanbuiart.github.io-green?style=for-the-badge&logo=google-chrome)](https://layanbuiart.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Layan%20Buiart-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%D9%84%D9%8A%D8%A7%D9%86-%D8%A8%D8%B9%D9%8A%D8%B1%D8%A7%D8%AA-50a186274/)
+[![GitHub](https://img.shields.io/badge/GitHub-layanbuiart-black?style=for-the-badge&logo=github)](https://github.com/layanbuirat?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-layanbuiart.github.io-green?style=for-the-badge&logo=google-chrome)](https://layanbuirat.github.io/layanbuirat/)
 
 **Open to BI & Analytics Engineer and Full-Stack Developer opportunities!**  
 📅 **Available from February 2, 2026**
