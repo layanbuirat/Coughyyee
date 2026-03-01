@@ -529,7 +529,7 @@
 <h2 align="center">📋 Resume</h2>
 
 <p align="center">
-  <a href="file:///C:/Users/hp/Downloads/Engineering_Layan_Buirat_CV.pdf">
+  <a href="https://drive.google.com/uc?export=download&id=10rRB98csjZgvNv5I3unM4CrTT6dsc-r5">
     <img src="https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" />
   </a>
 </p>
