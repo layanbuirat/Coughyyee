@@ -1,5 +1,5 @@
 # 👨‍💻 Layan Buirat | Computer Engineering Graduate | AI Specialization
-شش
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BI+%26+Analytics+Engineer;Full-Stack+Developer;Data+Specialist;AI+Enthusiast;Building+Data-Driven+Solutions" /> 
 </p>
@@ -38,14 +38,14 @@
 ## 🎓 **Education & Certification**
 
 <div align="center">
-  </table>
+  <table>
     <tr>
       <td align="center" width="33%">
         <img src="images/birzeit-degree.jpg" alt="Bachelor's Degree" width="250"/><br>
         <sub><b>B.Sc. in Computer Engineering - AI Specialization</b><br>Birzeit University | 2021-2026<br>Completed in 4.5 years | Graduation Project: 90/100</sub>
       </td>
       <td align="center" width="33%">
-        <img src="images/udacity.jpg" alt="Udacity Nanodegree" width="250"/><br>
+        <img src="images/Udacity.jpeg" alt="Udacity Nanodegree" width="250"/><br>
         <sub><b>Intro to Machine Learning with TensorFlow 🎉</b><br>Udacity | Palestine Launchpad with Google & Accenture<br>
         📚 Supervised & Unsupervised Learning | TensorFlow & Neural Networks | PCA, K-Means<br>
         🏆 Projects: CharityML, Customer Segmentation, Flower Image Classifier (102 species)<br>
